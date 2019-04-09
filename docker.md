@@ -1,17 +1,19 @@
 ---
 layout: page
 title: docker
-docs: https://www.docker.com/ 
+docs: https://docs.docker.com/
 ---
-From a dockerfile to a docker image 
+Build Docker image `image_name` from dockerfile `Dockerfile` 
 ```bash
-docker build -t <image name> .
+docker build -t image_name .
 ```
-How to create a docker "container"
+Create and start a Docker container from image `image_name`
 ```bash
-docker run <image name>
+docker run image_name
 ```
-A short summery about docker\:
-- A `Dockerfile` is a recipe for creating Docker images
-- A Docker image gets built by running a Docker command (which uses that `Dockerfile`)
+A short summary of docker:
+- A `Dockerfile` is a 'recipe' for creating Docker images
+- A Docker image gets built by running the `docker build` command (which uses the aforementioned `Dockerfile`)
 - A Docker container is a running instance of a Docker image
+- Docker images consist of layers. Each `Dockerfile` instruction turns into it's own layer.
+- When (re-)building an image, unchanged layers are simply reused, which can drastically reduce build time.
