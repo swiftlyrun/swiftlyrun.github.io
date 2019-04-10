@@ -30,10 +30,13 @@ layout: home
 [z](#z)
 
 ## a
-[apt](apt)  
+[apt](/apt)  
+
+## c
+[curl](/curl)
 
 ## d
-[docker](docker)
+[docker](/docker)
 
 ## e
 [emacs](/emacs)  
