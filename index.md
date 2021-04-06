@@ -32,14 +32,20 @@ layout: home
 ## a
 [apt](/apt)  
 
+## b
+[BASH](/BASH)  
+
 ## c
-[curl](/curl)
+[curl](/curl)  
 
 ## d
-[docker](/docker)
+[docker](/docker)  
 
 ## e
 [emacs](/emacs)  
+
+## g
+[GitHub](/GitHub)  
 
 ## j
 [jekyll](/jekyll)  
