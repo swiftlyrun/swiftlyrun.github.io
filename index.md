@@ -33,9 +33,11 @@ layout: home
 [apt](/apt)  
 
 ## b
-[BASH](/BASH)  
+[bash](/bash)  
 
 ## c
+[cat](/cat)  
+[cd](/cd)  
 [curl](/curl)  
 
 ## d
@@ -50,12 +52,21 @@ layout: home
 ## j
 [jekyll](/jekyll)  
 
+## l
+[less](/less)  
+[ls](/ls)  
+
+## m
+[man](man)  
+
 ## p
+[pwd](/pwd)  
 [python](/python)  
 [python-pip](/python-pip)  
 [python-virtualenv](/python-virtualenv)  
 
 ## t
+[tail](/tail)  
 [tmux](/tmux)  
 
 ## v
