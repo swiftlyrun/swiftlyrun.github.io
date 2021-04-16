@@ -65,6 +65,9 @@ layout: home
 [python-pip](/python-pip)  
 [python-virtualenv](/python-virtualenv)  
 
+## s
+[sh](/sh)  
+
 ## t
 [tail](/tail)  
 [tmux](/tmux)  
