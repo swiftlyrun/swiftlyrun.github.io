@@ -47,7 +47,7 @@ layout: home
 [emacs](/emacs)  
 
 ## g
-[GitHub](/GitHub)  
+[git](/git)  
 
 ## j
 [jekyll](/jekyll)  

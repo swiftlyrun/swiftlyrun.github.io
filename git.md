@@ -1,6 +1,6 @@
 ---
 layout: page
-title: GitHub
+title: git
 docs: https://education.github.com/git-cheat-sheet-education.pdf
 ---
 Initialize an existing directory as a Git repository
