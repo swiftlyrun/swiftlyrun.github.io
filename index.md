@@ -48,6 +48,7 @@ layout: home
 
 ## g
 [git](/git)  
+[grep](/grep)  
 
 ## j
 [jekyll](/jekyll)  
