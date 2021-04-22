@@ -6,7 +6,7 @@ Display the list of directories that will be searched for commands entered into 
 ```bash
 echo $PATH
 ```
-Some Unix/BDS/Linux general commands
+Some Unix/BSD/Linux general commands
 - File system navigation.
   - [`pwd`](/pwd) 
   - [`ls`](/ls) 
